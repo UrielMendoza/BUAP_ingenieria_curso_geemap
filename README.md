@@ -1,7 +1,7 @@
 # BUAP_ingenieria_curso_geemap
 ## Taller de Geemap en la Facultad de Ingeniería de la BUAP
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://i.imgur.com/9OOSpDm.png" alt="Descripción de la imagen" style="width: 45%; height: auto;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO-4YluIqCyMaTSHATfBoBz8RfOG4wim9VqA&s" alt="Otra descripción de la imagen" style="width: 15%; height: auto;">
     <img src="https://seeklogo.com/images/B/benemerita-universidad-autonoma-de-puebla-logo-08A9E090F7-seeklogo.com.png" alt="Otra descripción de la imagen" style="width: 15%; height: auto;">
