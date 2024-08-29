@@ -1,7 +1,9 @@
-# UNAM_ingenieria_curso_geemap
-## Taller de Geemap en la Facultad de Ingeniería de la UNAM
+# BUAP_ingenieria_curso_geemap
+## Taller de Geemap en la Facultad de Ingeniería de la BUAP
 
 ![Descripción de la imagen](https://i.imgur.com/9OOSpDm.png)
+![Otra descripción de la imagen](https://aplicaciones.buap.mx/unicon/imgs/banner.png)
+
 
 Geemap es un paquete de Python para el análisis y la visualización geoespacial interactiva con Google Earth Engine (GEE), una plataforma de computación en la nube que cuenta con un catálogo de imágenes satelitales y conjuntos de datos geoespaciales de varios petabytes. En los últimos años, GEE se ha vuelto muy popular en la comunidad geoespacial, habilitando numerosas aplicaciones ambientales a nivel local, regional y global. GEE proporciona APIs en JavaScript y Python para realizar solicitudes computacionales a los servidores de Earth Engine. Comparado con la documentación exhaustiva y el IDE interactivo del API de JavaScript de GEE, el API de Python de GEE tiene relativamente poca documentación y funcionalidad limitada para la visualización interactiva de resultados. El paquete de Python geemap fue creado para llenar este vacío. Construido sobre ipyleaflet e ipywidgets, permite a los usuarios analizar y visualizar conjuntos de datos de Earth Engine de manera interactiva dentro de un entorno basado en Jupyter.
 
